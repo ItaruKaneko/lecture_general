@@ -32,3 +32,7 @@
  - 公平性
  - 公共メディア
  - 標準化
+
+
+
+[講義用 google doc](https://docs.google.com/document/d/1w_rr1eMvIiYdm-O1-NVaDPEbA4Yi-_zCwfu49z5J6fs/edit?usp=sharing)
