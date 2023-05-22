@@ -31,6 +31,10 @@ ELSIの歴史をたどると、もともとELSIはゲノム情報処理に関し
 
 [Docker Vectorization, a Cloud-Native Privacy Agent—The Analysis of Demand and Feasibility for Era of Developing Complexity of Privacy Management](https://www.mdpi.com/2076-3417/13/5/3235)
 
+この提案はSC29/WG8でもとりあげられて現在これに元づく新規標準化の検討が始まっている。
+
+
+
 ## AI メディアのELSI
 
 AIの技術はこの10年で、実用化にむけて飛躍的な進歩をとげた。
