@@ -1,4 +1,4 @@
-# メディアとELSI
+# メディアとELSI 5月23日 10:45-12:30
 
 ## 第1部 概論
 
@@ -32,6 +32,32 @@
  - 公平性
  - 公共メディア
  - 標準化
+
+
+# 国際標準、ゲノム、AIとELSI 7月11日 10:45-12:30
+
+1. 国際標準と知財(講演20分、質疑10分)
+
+IT・ソフトウェアの標準化と特許 -インターネットが変えた標準と特許の関係-
+[->link](http://id.nii.ac.jp/1001/00090031/)
+
+標準的技術における特許処理のケーススタディと課題
+[->link](https://cir.nii.ac.jp/crid/1570009753001178112)
+
+休憩5分
+
+2. ゲノムのプライバシー(講演20分、質疑10分)
+
+2021-08-09    White paper on MPEG-G and its application of regulations and privacy
+[->link](https://www.mpeg.org/wp-content/uploads/mpeg_meetings/135_OnLine/w20737.zip)
+
+休憩5分
+
+3. 人工知能のelsi (講演20分、質疑10分)
+
+私はなぜ心配するのをやめてAIを受け入れるようになったか(slishare.net のスライド)
+[->link](https://www.slideshare.net/itarukaneko3/ai-258667080?fbclid=IwAR3JNa0EgI7JILFkjhHDTtxNueluBPdt6w91E9fuyYoK_Xmko5oDAZuTGoU)
+
 
 
 
