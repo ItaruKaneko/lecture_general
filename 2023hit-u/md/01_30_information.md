@@ -58,7 +58,7 @@ PCM の利点がチャンネル間の分離であるという証拠は見つか�
 シャノンが定義した情報量は下記の通り。
 
 
-$${\displaystyle H(P) = \sum _{x_{i}\in \Omega }P(x_{i})\ I(x_{i}) }$$
+$${\displaystyle H(P) = \sum_{x_{i}\in \Omega }P(x_{i}) \cdot I(x_{i}) }$$
 
 $${\displaystyle H(P)}$$
 
