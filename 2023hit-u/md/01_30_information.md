@@ -60,6 +60,10 @@ PCM の利点がチャンネル間の分離であるという証拠は見つか�
 
 $${\displaystyle H(P) = \sum _{x_{i}\in \Omega }P(x_{i})\ I(x_{i}) }$$
 
+$${\displaystyle H(P)}$$
+
+$$ = \sum _{x_{i}\in \Omega }P(x_{i})\ I(x_{i}) }$$
+
 $${I(x_{i})=P(x_{i})\log P(x_{i})}$$
 
 

@@ -14,7 +14,7 @@
 
 1. 自己紹介 ([link](01_10_self_introduction.md))
 1. この講義の目標 ([link](01_20_introduction.md))
-2. PCM ([link](01_30_PCM.md))
+2. 情報とメディア ([link](01_30_information.md))
 3. 著作権 ([link](01_40_copyright.md))
 4. メディアと進化生物学 ([link](01_50_evolutional_sociology.md))
 
