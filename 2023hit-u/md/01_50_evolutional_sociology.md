@@ -17,7 +17,7 @@
 
 この問題に関心がある場合には以下書籍がお勧めである。
 
-[Paul Ibbotson, What it takes to talk, exploring developmental cognitive linguisitcs](https://www.amazon.com/Developmental-Cognitive-Linguistics-Research/dp/311064441X)
+[リンク: Paul Ibbotson, What it takes to talk, exploring developmental cognitive linguisitcs](https://www.amazon.com/Developmental-Cognitive-Linguistics-Research/dp/311064441X)
 
 このように、言語の発生を含めた進化を理解することは、メディアの進化について理解する助けになる。
 
@@ -31,7 +31,16 @@
 
 以下はやや古い教科書なので、今はもっと洗練されたものがあると思われる。
 
-[Joshua M. Epstein, Robert Axtell, 人工社会―複雑系とマルチエージェント・シミュレーション](https://www.amazon.co.jp/dp/4320097289)
+[リンク: Joshua M. Epstein, Robert Axtell, 人工社会―複雑系とマルチエージェント・シミュレーション](https://www.amazon.co.jp/dp/4320097289)
+
+以下は、仮想世界上の仮想的著作権制度で異なるデジタル著作権制度による効果を比較しようとした試み。
+
+HTML5 と JavaScript で構築したマルチエージェントシミュレータによるデジタル著作権の制度比較分析の試み
+
+[リンク: 電子情報通信学会 予稿](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2019/data/pdf/N-016.pdf)
+
+
+
 
 ## ナッシュ均衡
 

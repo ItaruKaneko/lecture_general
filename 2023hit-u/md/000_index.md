@@ -1,12 +1,14 @@
 # メディアとELSI
-2024 メディアとELSI 6月11日 10:45-12:30
-2024 標準化と制度設計 x月xx日 10:45-12:30
-2023 メディアとELSI 5月23日 10:45-12:30
-2023 国際標準、ゲノム、AIとELSI 7月11日 10:45-12:30
+|年 | タイトル  |
+| --- | --- |
+| 2024 | メディアとELSI 6月11日 10:45-12:30 |
+| 2024  |標準化と制度設計 x月xx日 10:45-12:30 |
+| 2023  |メディアとELSI 5月23日 10:45-12:30 |
+| 2023 | 国際標準、ゲノム、AIとELSI 7月11日 10:45-12:30 |
 
 ## 第1回 メディアとELSI
 
-ゆっくり話して1:30くらいaaa
+講義時間 ゆっくり話して1:30くらい
 
 
 メディアにおけるELSIを概観します。
@@ -14,11 +16,12 @@
 
 1. 自己紹介 ([link](01_10_self_introduction.md))
 1. この講義の目標 ([link](01_20_introduction.md))
-2. 情報とメディア ([link](01_30_information.md))
-3. 著作権 ([link](01_40_copyright.md))
-4. メディアと進化生物学 ([link](01_50_evolutional_sociology.md))
+1. 情報とメディア ([link](01_30_information.md))
+1. 著作権 ([link](01_40_copyright.md))
+1. メディアと進化 ([link](01_50_evolutional_sociology.md))
+1. フェイクニュース ([link](01_60_fakenews.md))
 
-## 第2回 標準化と制度設計
+## 第2回(未定) 標準化と制度設計
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md)
 1. 標準化と知的財産([link](02_30_standardization.md))
