@@ -33,9 +33,12 @@
 
 こうしたことは、メディアや思想の自由が担保されていることの一つの現れであると見ることができる。
 
-
+~~~
+情報処理学会 情報処理 vol. 61 No 7
 《特集》サイバー・ウォーズ：5．ロシアのインテリジェンス機関とICT（小泉　悠）
 
+IPSJ-MGN610707.pdf
+~~~
 電子図書館 - [http://id.nii.ac.jp/1001/00204800/](http://id.nii.ac.jp/1001/00204800/)
 
 
@@ -63,17 +66,66 @@ Q 適正かそうでない選挙運動の境界は何か?
 それでも有権者が利己的に投票することで、全体的な公平性や経済性が促進されるような、
 制度設計を考える、というアプローチも存在する。
 
+~~~
+情報処理学会 情報処理 Vol 58, No 12
+ディジタルゲリマンダとは何か -選挙区割策略からフェイクニュースまで-：4．ディジタルゲリマンダへの工学的アプローチ -ディジタルにはディジタルを-
+金子格
+IPSJ-MGN581208.pdf
+~~~
+
+電子図書館 - [http://id.nii.ac.jp/1001/00184220/
+](http://id.nii.ac.jp/1001/00184220/)
+~~~
+金子格  デジタル・ゲリマンダーとSNS選挙干渉の抑制方法の工学的検討
+情報処理学会, 	研究報告電子化知的財産・社会基盤（EIP）
+IPSJ-EIP17078010.pdf
+~~~
+
+電子図書館 - [http://id.nii.ac.jp/1001/00184538/](http://id.nii.ac.jp/1001/00184538/)
+
+
+
 ## 5.4. 理論的基礎
 
 これらの議論では以下が基礎になる。
 
 (1) 投票に関する数学理論
+
 (2) ゲーム理論
+
 (3) データサイエンス
+
 (4) ネットワーク利用サービスのアーキテクチャ
+
 (5) 制度設計の理論
+
 (6) 行動経済学
+
 (7) 集団心理や社会学
+
+たとえば投票に関するゲーム理論的分析は活発におこなわれている。
+以下は2024/7/4にcopilotによって得られた例である。
+
+質問
+
+投票に関するゲーム理論の論文を5つあげてください。
+
+Copilot
+web
+を使用しています
+以下に、投票に関するゲーム理論の論文をいくつかご紹介します：
+
+"Representation Theory of the Symmetric Group in Voting Theory and Game Theory"1: この論文では、対称群の表現理論が投票理論とゲーム理論でどのように使用されているかについて調査しています。特に、対称群の作用により生じる順列表現を使用して、例えば、ボルダカウントとケメニールールの間の驚くべき関係を説明しています1。
+
+"A Theory of Participation in Elections"2: この論文では、ゲーム理論の中心的な仮定の一つを緩和しています。具体的には、エージェントの利得がゲームの結果によって外的に決定されるという仮定を緩和し、エージェントの利得が一部、内生的に生成された行動に対する好みによって決定されるモデルを開発しています2。
+
+"Decision Making in Voting Games: An Insight into Theory and Practice"3: この論文では、投票ゲーム理論の基本的な概念を紹介し、その実践的な応用を示しています3。
+
+以上の論文は、投票に関するゲーム理論の一部を紹介しています。他の論文を探すためには、具体的なトピックやキーワードを指定して検索することをお勧めします。それぞれの論文は、投票に関するゲーム理論の異なる側面を探求しており、それぞれが独自の視点と洞察を提供しています。これらの論文を読むことで、投票に関するゲーム理論の理解を深めることができます。ご参考になれば幸いです。
+
+1. [https://arxiv.org/abs/1508.05891](https://arxiv.org/abs/1508.05891)
+2. [https://www.kellogg.northwestern.edu/faculty/fedderse/homepage/papers/duty4-15-02.pdf](https://www.kellogg.northwestern.edu/faculty/fedderse/homepage/papers/duty4-15-02.pdf)
+3. [https://link.springer.com/chapter/10.1007/978-3-642-04820-3_6](https://link.springer.com/chapter/10.1007/978-3-642-04820-3_6)
 
 ## 5.5. 課題
 
@@ -84,6 +136,81 @@ Q 適正かそうでない選挙運動の境界は何か?
 しかし、政治的バイアスを防止するチューニングが可能であるということは、もちろん、逆に政治的なバイアスを生じさせるチューニングや、政治的バイアスを生じさせつつそれに気付かせないような目的での、別のチューニングも可能であることになる。
 
 
+
 Q AIの透明性はどうあるべきか?
 
 Q はたしてその透明性はどう技術的に担保できるのだろう?
+
+## 5.6. 生成AIサービスの政治的中立性
+
+(以下の例は、生成AIサービスの政治的中立性を示すためにとりあげているもので、たまたまとりあげた例についての政治的な立場を示すものではない。)
+
+米国大統領選の候補者について質問するとAIは比較結果は回答できない、と回答する。
+
+これは政治的に中立性を保つためにこのような質問には答えないよう、tuningされていると推測される。
+
+しかしこのような中立性には限界がある。
+
+二人の候補の移民に関する発言を質問すると以下のような回答が得られる。
+
+トランプ氏の発言は多くの人々から批判をうけている、とされバイデン氏の発言は引用されているだけである。
+
+このように回答に、評価をまったく含めないことは、現実的には困難である。
+
+これについて、実際にそうであるならば、ありのままの情報を伝えるべきであるか、あるいはAIはこのような情報を提供すべきでないと考えるかは難しい。
+
+
+### どちらの候補がふさわしいかと尋ねた場合
+
+~~~
+質問
+
+トランプとバイデンのどちらが大統領にふさわしいでしょう？
+
+Copilot
+私はAIであり、主観的な意見を持つことはありません。どの候補者が大統領にふさわしいかは、その候補者の政策、価値観、経歴など、多くの要素に基づいて個々の有権者が判断するべきです。また、それは各人の政治的価値観や期待に大きく依存します。重要なのは、情報をしっかりと収集し、自分自身の価値観に基づいて意思決定を行うことです。それぞれの候補者が提案している政策や立場について詳しく調べることをお勧めします。それにより、自分自身にとって最もふさわしい候補者を選ぶことができます。ご理解いただけますと幸いです。
+~~~
+
+
+### それぞれの候補の移民に対する発言を質問した場合
+
+~~~
+質問
+トランプ氏の移民に対する発言にどのようなものがありましたか？
+Copilot
+トランプ氏の移民に対する発言は、しばしば議論を巻き起こしています。以下に、彼のいくつかの発言を紹介します：
+
+「移民は我々の国の血を毒する」12：トランプ氏は、移民が「我々の国の血を毒する」と発言しました。彼は、アメリカに入国する不法移民が「我々の国の血を破壊している」と述べ、その発言は広く批判されました2。彼は、不法移民が「世界中から」やって来ているとも述べました1。
+「移民政策の大幅な変更」3：彼は2024年の再選を果たした場合、米国の移民政策を大幅に変更すると約束しました。具体的には、大量の強制送還を実施し、米墨国境に壁を完成させ、不法移民の子供に対する出生地による市民権を終了し、入国者に対する「強力なイデオロギー的スクリーニング」を導入し、いわゆる「ムスリム禁止令」を復活させると述べました3。
+これらの発言は、トランプ氏の移民に対する見解を示しています。彼の発言は、しばしば議論を巻き起こし、多くの人々から批判を受けています。それぞれの発言は、彼の移民政策に対する考え方と、彼がどのように移民問題を捉えているかを示しています。これらの情報が参考になれば幸いです。
+~~~
+
+詳細情報
+
+1. [nbcnews.com](https://www.nbcnews.com/politics/2024-election/trump-says-immigrants-are-poisoning-blood-country-biden-campaign-liken-rcna130141)
+2. [nbcnews.com](https://www.nbcnews.com/politics/donald-trump/trump-doubles-immigrant-blood-remark-says-never-read-mein-kampf-rcna130535)
+3. [cbsnews.com](https://www.cbsnews.com/news/trump-immigrants-poisoning-the-blood-of-our-country-reaction/)
+4. [msn.com](https://www.msn.com/en-us/news/politics/donald-trump-blasted-by-hometown-newspaper-after-debate/ar-BB1pmWQy)
+5. [msn.com](https://www.msn.com/en-us/news/politics/what-is-a-black-job-trump-s-presidential-debate-comments-on-black-americans-immigration-and-more-draw-criticism/ar-BB1p4AnP)
+6. [voanews.com](https://www.voanews.com/a/biden-trump-blame-each-other-over-immigration-issues/7676677.html)
+
+~~~
+質問
+バイデン氏の移民に対する発言にどのようなものがありましたか？
+Copilot
+バイデン氏の移民に対する発言は以下の通りです：
+
+「家族を一緒に保つ」1: バイデン大統領は、米国市民である配偶者や子供が非市民である場合、家族を一緒に保つための新たな措置を発表しました。この新たなプロセスにより、一部の非市民の配偶者や子供が、国を離れることなく永住権を申請することができます1。
+「国境の安全確保」2: バイデン大統領は、南部国境を非法的に越える移民が庇護を受けることを禁止する行政措置を発表しました。これらの措置は、南部国境での遭遇が多いときに有効となり、移民局の職員が合法的な根拠を持たない人々を迅速に退去させることを容易にします2。
+「オバマ政権の移民政策に対する後悔」3: バイデン氏は、オバマ政権の移民政策について、「犯罪記録のない何十万人もの人々を追放した」と述べ、その政策を「大きな間違い」と呼びました。彼は、選ばれた場合、合法的な移民と庇護申請プロセスを拡大することを約束しました3。
+これらの発言は、バイデン氏の移民に対する見解を示しています。それぞれの発言は、彼の移民政策に対する考え方と、彼がどのように移民問題を捉えているかを示しています。これらの情報が参考になれば幸いです。
+~~~
+
+詳細情報
+
+1.  [whitehouse.gov](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-president-biden-announces-new-actions-to-keep-families-together/)
+2.  [whitehouse.gov](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/04/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/)
+3.  [theweek.com](https://theweek.com/joe-biden/1021588/bidens-views-on-immigration)
+4.  [voanews.com](https://www.voanews.com/a/biden-trump-blame-each-other-over-immigration-issues/7676677.html)
+5.  [msn.com](https://www.msn.com/en-gb/news/world/biden-continues-to-fall-behind-trump-in-polls-as-he-admits-he-screwed-up-debate-live/ar-BB1pc7el)
+6.  [washingtonexaminer.com](https://www.washingtonexaminer.com/opinion/3062895/biden-ripped-for-failing-to-answer-on-abortion/)
