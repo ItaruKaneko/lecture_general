@@ -35,3 +35,7 @@
 pc か スマホで開いて、自由に書き込みしてください
 全員で共有されます。
 - google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1hmgOeF4epq0vflLXdMDp3cc7sJl1ow9kgsXUZWptq28/edit?usp=drive_link))
+
+
+- 事前録画video
+[->link](https://1drv.ms/w/s!AplKFjNlsi53vu9cf5NE4EgvbFXGCw?e=wE0nO3)
