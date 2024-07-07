@@ -24,10 +24,10 @@
 ## 第2回(未定) 標準化と制度設計
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md)
-1. 標準化と知的財産([link](02_30_standardization.md))
+1. 標準化と知的財産([link](02_30_standard_and_ip.md))
 
-1. まとめ([link](02_40_conclusion.md))
-1. ゲノムとAI([link](02_050_genomeandai.md))
+1. ゲノムとAI([link](02_40_genomeandai.md))
+1. まとめ([link](02_90_conclusion.md))
 
 
 ## 講義ディスカッション用 google doc リンク (全員共有ファイル)
