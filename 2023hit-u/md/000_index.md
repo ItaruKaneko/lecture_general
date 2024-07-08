@@ -2,7 +2,7 @@
 |年 | タイトル  |
 | --- | --- |
 | 2024 | メディアとELSI 6月11日 10:45-12:30 |
-| 2024  |標準化と制度設計 x月xx日 10:45-12:30 |
+| 2024  |標準化と制度設計 7月9日 10:45-12:30 |
 | 2023  |メディアとELSI 5月23日 10:45-12:30 |
 | 2023 | 国際標準、ゲノム、AIとELSI 7月11日 10:45-12:30 |
 
@@ -18,14 +18,13 @@
 1. この講義の目標 ([link](01_20_introduction.md))
 1. 情報とメディア ([link](01_30_information.md))
 1. 著作権 ([link](01_40_copyright.md))
-1. メディアと進化 ([link](01_50_evolutional_sociology.md))
-1. フェイクニュース ([link](01_60_fakenews.md))
 
 ## 第2回(未定) 標準化と制度設計
+1. メディアと進化 ([link](01_50_evolutional_sociology.md))
+1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md)
 1. 標準化と知的財産([link](02_30_standard_and_ip.md))
-
 1. ゲノムとAI([link](02_40_genomeandai.md))
 1. まとめ([link](02_90_conclusion.md))
 
