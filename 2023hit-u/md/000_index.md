@@ -23,7 +23,7 @@
 1. メディアと進化 ([link](01_50_evolutional_sociology.md))
 1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
-1. 標準化([link](02_20_standardization.md)
+1. 標準化([link](02_20_standardization.md))
 1. 標準化と知的財産([link](02_30_standard_and_ip.md))
 1. ゲノムとAI([link](02_40_genomeandai.md))
 1. まとめ([link](02_90_conclusion.md))
