@@ -19,7 +19,7 @@
 1. 情報とメディア ([link](01_30_information.md))
 1. 著作権 ([link](01_40_copyright.md))
 
-## 第2回(未定) 標準化と制度設計
+## 第2回 標準化と制度設計
 1. メディアと進化 ([link](01_50_evolutional_sociology.md))
 1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
