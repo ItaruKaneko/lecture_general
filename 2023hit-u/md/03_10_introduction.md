@@ -104,6 +104,7 @@ $$
 $$
 \mathbf{C} = \mathbf{A} \mathbf{B}
 $$
+
 $$
 \mathbf{C}_{ij} = \sum_{k=1}^{n} a_{ik} b_{kj}
 $$
@@ -244,5 +245,66 @@ $$
 共起行列は、単語の共起情報を行列形式で表現したものです。以下は、共起行列 \( \mathbf{C} \) の定義です。
 
 #### 共起行列の定義
-共起行列 \( \mathbf{C} \) の要素
+$$
+共起行列  \mathbf{C}  の要素
+$$
+
+$$ C_{ij} = \text{count}(w_i, w_j) $$
+
+
+### Transformer
+
+### Transformerモデルの数式
+
+#### 入力埋め込み
+入力シーケンス \( x \) を埋め込みベクトル \( E \) に変換します。
+$$
+E = \text{Embedding}(x)
+$$
+
+#### ポジショナルエンコーディング
+位置情報を埋め込みベクトルに追加します。
+$$
+E' = E + \text{PositionalEncoding}(x)
+$$
+
+#### 自己注意機構 (Self-Attention)
+自己注意機構は、クエリ \( Q \)、キー \( K \)、バリュー \( V \) を用いて計算されます。
+$$
+\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
+
+#### マルチヘッド注意機構 (Multi-Head Attention)
+複数の自己注意機構を並列に計算し、それらを結合します。
+$$
+\text{MultiHead}(Q, K, V) = \text{Concat}(\text{head}_1, \text{head}_2, \ldots, \text{head}_h)W^O
+$$
+ここで、各ヘッドは以下のように計算されます。
+$$
+\text{head}_i = \text{Attention}(QW_i^Q, KW_i^K, VW_i^V)
+$$
+
+#### フィードフォワードネットワーク (Feed-Forward Network)
+各位置に対して独立に適用されるフィードフォワードネットワークです。
+$$
+\text{FFN}(x) = \max(0, xW_1 + b_1)W_2 + b_2
+$$
+
+#### エンコーダ層 (Encoder Layer)
+エンコーダ層は、マルチヘッド注意機構とフィードフォワードネットワークから構成されます。
+$$
+\text{EncoderLayer}(x) = \text{FFN}(\text{MultiHead}(x, x, x))
+$$
+
+#### デコーダ層 (Decoder Layer)
+デコーダ層は、マルチヘッド注意機構、エンコーダ-デコーダ注意機構、フィードフォワードネットワークから構成されます。
+$$
+\text{DecoderLayer}(x, \text{enc\_output}) = \text{FFN}(\text{MultiHead}(x, x, x) + \text{MultiHead}(x, \text{enc\_output}, \text{enc\_output}))
+$$
+
+## 8. AIとシャーロックリスク
+
+
+[大量ウェアラブルデバイスと大規模生体情報時代におけるAI機械学習のシャーロック問題への対策としてのプライバシーエージェントのDockerベクトル化](./pdf/IPSJ-EIP22095001.pdf)
+
 
