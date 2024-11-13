@@ -12,7 +12,10 @@
 ## 1年次向け データサイエンスとELSI
 
 1. 自己紹介 ([link](01_10_self_introduction.md))
-1. データサイエンスとELSI - 基礎と実例 ([link](03_10_ds_and_elsi.md))
+1. データサイエンスとELSI - 基礎 ([link](03_10_ds_and_elsi.md))
+1. データサイエンスとELSI - 基礎と実例 ([link](03_20_ds_and_elsi_confidence.md))
+1. データサイエンスとELSI - 手法 ([link](03_20_ds_and_elsi_tools.md))
+
 1. 時間があれば他のネタも
 
 ## 第1回 メディアとELSI
