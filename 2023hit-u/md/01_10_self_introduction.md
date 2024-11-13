@@ -6,7 +6,7 @@
 - 1985 アスキー
   - マイクロソフトFE本部 ->[当時のPC](image/in-1986-sony-introduced-the-smc-210-their-first-portable-pc-v0-t1uhqnoxpq2d1.jpg)
   - システム開発部
-  - シリコンソフトウエア開発部 ->[当時のプロセッサ](image/VM technology VM8600SP.pdf)
+  - シリコンソフトウエア開発部 ->[当時のプロセッサ](image/VM_technology_VM8600SP.pdf)
   - アスキー未来研究所
 ## 経歴 後半 主に研究者
 - 2000-2002 早稲田大学大学院博士課程
