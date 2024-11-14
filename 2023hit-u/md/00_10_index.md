@@ -28,9 +28,10 @@
 
 ### 前半 ソーシャル・データサイエンスの法と倫理 金子のイメージ
 1. 自己紹介 ([link](01_10_self_introduction.md))
-1. 金子的、データサイエンス導入 - 基礎 ([link](03_10_ds_and_elsi.md))
-1. 金子的、データサイエンス導入- 基礎と実例 ([link](03_20_ds_and_elsi_confidence.md))
-1. 金子的、データサイエンス導入- 手法 ([link](03_20_ds_and_elsi_tools.md))
+1. 金子的、データサイエンス導入 - 基礎 ([link](u2_10_sds_lae.md))
+1. 金子的、データサイエンス導入- 基礎と実例 ([link](u2_20_sds_lae_confidence.md))
+1. 金子的、データサイエンス導入- 手法 ([link](u2_30_sds_lae_tools.md))
+1. 金子的、データサイエンス導入- 懸念 ([link](u2_40_sds_lae_concerns.md))
 ### 後半 実践
 
 以下の標準化と制度設計から、関心がありそうなテーマについて2つほどとりあげて説明し、ディスカッションしたいと思います。
@@ -59,9 +60,9 @@
 1. まとめ([link](02_90_conclusion.md))
 
 ### 第3回 AI時代の諸課題をめぐって
-1. AIと知的財産 ([link](04_10_ai_ip.md))
-1. AIとプライバシー([link](04_20_ai_privacy.md))
-1. AIとファクトチェック([link](04_30_ai_fakeinformation.md))
+1. AIと知的財産 ([link](03_10_ai_ip.md))
+1. AIとプライバシー([link](03_20_ai_privacy.md))
+1. AIとファクトチェック([link](03_30_ai_fakeinformation.md))
 
 # 講義ディスカッション用 google doc リンク (全員共有ファイル)
 
