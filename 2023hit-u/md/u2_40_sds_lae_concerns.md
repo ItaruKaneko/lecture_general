@@ -40,5 +40,11 @@ AIの基礎
 社会の関心はかならずしも高くない
 影響は後からやってくる (テレビ、インターネット、AIと同様)
 
-## 
+## Genom のプライバシーと保護
+
+1. [Docker Vectorization, a Cloud-Native Privacy Agent—The Analysis of Demand and Feasibility for Era of Developing Complexity of Privacy Management](https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=e3vH8ZsAAAAJ&cstart=20&pagesize=80&citation_for_view=e3vH8ZsAAAAJ:e_rmSamDkqQC)
+(金子の自分のためのメモ "C:\Users\itaru\OneDrive\doc1\MyDoc\journal\@archive\202305mdpi_iaciii\202301mdpi_genom\rev3\202301_docker_vector-round3.docx")
+
+1. [金子格他、ゲノム情報セキュリティの国際動向NIST IR 8467とMPEG Genomic Information Representationを中心に, 情報処理学会研究報告EIP 2023-EIP-101-3](Permalink : http://id.nii.ac.jp/1001/00227459/)
+(金子の自分のためのメモ "C:\Users\itaru\OneDrive\doc1\MyDoc\Conference\2023\202308eip\eip101docker.pptx")
 
