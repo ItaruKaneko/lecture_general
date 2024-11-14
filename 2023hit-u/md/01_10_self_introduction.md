@@ -1,5 +1,12 @@
 # 1. 金子格 自己紹介
 
+## Achievements
+
+  - [Researchmap](https://researchmap.jp/read0208088)
+  - [Researchgate](https://www.researchgate.net/profile/Itaru-Kaneko)
+  - [google scholar](https://scholar.google.com/citations?user=e3vH8ZsAAAAJ)
+  - [patents](https://www.j-platpat.inpit.go.jp/)  金子格で検索 日産自動車は別人 16件程度
+
 ## 経歴 前半 主にエンジニア
 - 1980 早稲田大学卒
 - 1982 日立製作所
@@ -25,9 +32,11 @@
 -  1982-1985 データベース、CAD
 -  1985-2000 パソコンOS、アプリケーション、LSI、システム構築
 -  1989-2018 MPEG-1, MPEG-2, MPEG-AAC, MPEG-4, MPEG-21
+   - 例: [音響符号化特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H09-018348/11/ja)
 -  2018-2023 MPEG-G, MPEG-Smat contract for media
 -  AI人材育成講座、Webで学ぶJavaScript
 -  情報処理学会 会誌記事(いろいろ)
+
 
  委員会活動など
  -  2000-2022 EIP研究会
