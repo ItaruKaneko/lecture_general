@@ -12,6 +12,7 @@
     - [第2回 標準化と制度設計](#第2回-標準化と制度設計)
     - [第3回 AI時代の諸課題をめぐって](#第3回-ai時代の諸課題をめぐって)
 - [講義ディスカッション用 google doc リンク (全員共有ファイル)](#講義ディスカッション用-google-doc-リンク-全員共有ファイル)
+- [参考書](#参考書)
 - [事前録画video](#事前録画video)
 
 ## 講演記録(日付順)
@@ -69,6 +70,10 @@
 pc か スマホで開いて、自由に書き込みしてください
 全員で共有されます。
 - google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1hmgOeF4epq0vflLXdMDp3cc7sJl1ow9kgsXUZWptq28/edit?usp=drive_link))
+
+# 参考書
+
+- [デイヴィッド・シュピーゲルハルター, 「統計学の極」](https://www.amazon.co.jp/dp/B0CXD7SFNB/)
 
 # 事前録画video
 
