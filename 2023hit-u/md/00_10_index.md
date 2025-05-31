@@ -63,6 +63,7 @@
 1. AIと知的財産 ([link](03_10_ai_ip.md))
 1. AIとプライバシー([link](03_20_ai_privacy.md))
 1. AIとファクトチェック([link](03_30_ai_fakeinformation.md))
+1. 生成AIとスタイルの知的財産([link](03_40_ai_style_value.md))
 
 # 講義ディスカッション用 google doc リンク (全員共有ファイル)
 
