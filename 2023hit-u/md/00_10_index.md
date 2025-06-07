@@ -100,9 +100,11 @@ pc か スマホで開いて、自由に書き込みしてください
 全員で共有されます。
 - google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1hmgOeF4epq0vflLXdMDp3cc7sJl1ow9kgsXUZWptq28/edit?usp=drive_link))
 
+- google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1HXvQU3zXN7W3nmawEWhiI_MH6TW_tUqV--PsczrAAi0/edit?usp=drive_link))
+
 ## 事前録画video
 
 (以前行った講義の事前録画動画です)
 
 - One Drive 共有ファイル
-[->link](https://1drv.ms/w/c/772eb26533164a99/EZlKFjNlsi4ggHfctw8AAAABVpQx6XOBS9flvZ2pJ5jUqA?e=cpjjlw)
+([->link](https://1drv.ms/w/c/772eb26533164a99/EZlKFjNlsi4ggHfctw8AAAABVpQx6XOBS9flvZ2pJ5jUqA?e=cpjjlw))
