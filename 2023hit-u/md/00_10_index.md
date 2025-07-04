@@ -37,6 +37,7 @@
 
 ## 2025 7月4日 技術と法 標準とゲーム, さまざまな事例とナッシュ均衡
 1. 自己紹介 ([link](01_10_self_introduction.md))
+1. nash equilibrium ([link](https://en.wikipedia.org/wiki/Nash_equilibrium))
 1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md))
@@ -112,9 +113,10 @@ https://ipsj.ixsq.nii.ac.jp/records/144938)
 
 pc か スマホで開いて、自由に書き込みしてください
 全員で共有されます。
-- google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1hmgOeF4epq0vflLXdMDp3cc7sJl1ow9kgsXUZWptq28/edit?usp=drive_link))
 
-- google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1HXvQU3zXN7W3nmawEWhiI_MH6TW_tUqV--PsczrAAi0/edit?usp=drive_link))
+- 2025 google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1HXvQU3zXN7W3nmawEWhiI_MH6TW_tUqV--PsczrAAi0/edit?usp=drive_link))
+- 参考 2024 google doc 共有ファイルリンク([link](https://docs.google.com/document/d/1hmgOeF4epq0vflLXdMDp3cc7sJl1ow9kgsXUZWptq28/edit?usp=drive_link))
+
 
 ## 事前録画video
 
