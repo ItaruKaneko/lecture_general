@@ -64,9 +64,13 @@ AI規制の問題は現在活発に議論されている問題だが、
 
 このような議論を、以下で発表予定。
 
-[第100回電子化知的財産社会基盤研究会
+1. [第100回電子化知的財産社会基盤研究会
 (14)私はなぜ心配するのをやめてAIを受け入れるようになったか
 〇金子 格（早大）,寺田 麻祐（一橋大／理化学研究所）,湯田 恵美（東北大）](https://www.ipsj.or.jp/kenkyukai/event/eip100.html)
 
+1. [-> slideshare](https://www.slideshare.net/slideshow/ai-258667080/258667080)
 
-[AIシステムのセキュリティーツールの現状と法的規制・標準との調和に関する考察](./pdf/2025-12ai-r3.pptx)
+
+1. [メディアシステムのAI](https://www.slideshare.net/slideshow/a-framework-for-system-architectures-that-address-diverse-requirements-in-media-ai-systems/286655598)
+
+1. [AIシステムのセキュリティーツールの現状と法的規制・標準との調和に関する考察](./pdf/2025-12ai-r3.pptx)
