@@ -45,6 +45,7 @@
 ## 2026 6月30日 part 1 国際標準とELSI
 1. 自己紹介 ([link](01_10_self_introduction.md))
 1. nash equilibrium ([link](https://en.wikipedia.org/wiki/Nash_equilibrium))
+ ナッシュ均衡([link](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%83%E3%82%B7%E3%83%A5%E5%9D%87%E8%A1%A1))
 1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md))
