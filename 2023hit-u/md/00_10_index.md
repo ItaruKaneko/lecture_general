@@ -11,7 +11,7 @@
   - [講演記録(日付順)](#講演記録日付順)
 - [2026 講義見出し一覧](#2026-講義見出し一覧)
   - [2026 6月30日 part 1 国際標準とELSI](#2026-6月30日-part-1-国際標準とelsi)
-  - [2026 6月30日 part 2 AIエージェントとELSI](#2026-6月30日-part-2-aiエージェントとelsi)
+  - [2026 6月30日 part 2 標準化、ゲノム、AI](#2026-6月30日-part-2-標準化ゲノムai)
   - [2026 7月21日 エージェントシミュレーションの課題](#2026-7月21日-エージェントシミュレーションの課題)
   - [今回は割愛する予定のパート](#今回は割愛する予定のパート)
   - [More reading](#more-reading)
@@ -50,22 +50,23 @@
 1. フェイクニュース ([link](01_60_fakenews.md))
 1. デジタルデモクラシー([link](02_10_digitaldemocracy.md))
 1. 標準化([link](02_20_standardization.md))
+
+
+## 2026 6月30日 part 2 標準化、ゲノム、AI
 1. 標準化と知的財産([link](02_30_standard_and_ip.md))
 1. ゲノムとAI([link](02_40_genomeandai.md))
 1. まとめ([link](02_90_conclusion.md))
-
-
-## 2026 6月30日 part 2 AIエージェントとELSI
-1. AI エージェントとELSI
 
 
 ## 2026 7月21日 エージェントシミュレーションの課題
 
 1. 自己紹介 ([link](01_10_self_introduction.md))
 1. この講義の目標 ([link](01_20_introduction.md))
+1. データサイエンスのこれまでとこれから(github資料はありません)
 1. AIと知的財産 ([link](03_10_ai_ip.md))
 1. 生成AIとスタイルの知的財産([link](03_40_ai_style_value.md))
 1. メディアと進化 ([link](01_50_evolutional_sociology.md))
+1. AIエージェントによる分散最適化の要件と故障検出(github資料はありません)
 
 ## 今回は割愛する予定のパート
 1. 情報とメディア ([link](01_30_information.md))
