@@ -60,7 +60,7 @@
 1. AIと知的財産 ([link](03_10_ai_ip.md))
 1. 生成AIとスタイルの知的財産([link](03_40_ai_style_value.md))
 1. メディアと進化 ([link](01_50_evolutional_sociology.md))
-1. AIエージェントによる分散最適化の要件と故障検出(github資料はありません)
+1. AIエージェントににおける分散最適化器としての要件と頑健性(github資料はありません)
 
 ## 今回は割愛する予定のパート
 1. 情報とメディア ([link](01_30_information.md))
